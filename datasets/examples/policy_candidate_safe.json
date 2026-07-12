@@ -1,0 +1,13 @@
+{
+  "version": "candidate-safe-v1",
+  "description": "Safe candidate that removes the generator-labeled redundant svc-backup read/database entitlement. The replay includes low-frequency stale accesses to this tuple, which the candidate correctly denies without disrupting required workload.",
+  "allow": [
+    {"subject":"svc-build","action":"read","resource":"repo"},
+    {"subject":"svc-build","action":"write","resource":"artifact"},
+    {"subject":"svc-deploy","action":"read","resource":"artifact"},
+    {"subject":"svc-deploy","action":"write","resource":"deployment"},
+    {"subject":"svc-backup","action":"write","resource":"backup-store"},
+    {"subject":"svc-incident","action":"read","resource":"audit-log"},
+    {"subject":"svc-incident","action":"write","resource":"ticket"}
+  ]
+}

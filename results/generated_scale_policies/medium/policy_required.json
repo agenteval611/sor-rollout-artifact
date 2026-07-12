@@ -1,0 +1,2256 @@
+{
+  "policy_id": "medium-required",
+  "description": "Generated required-policy oracle",
+  "allow": [
+    {
+      "subject": "identity_0000",
+      "action": "action_00",
+      "resource": "resource_00000"
+    },
+    {
+      "subject": "identity_0001",
+      "action": "action_01",
+      "resource": "resource_00001"
+    },
+    {
+      "subject": "identity_0002",
+      "action": "action_02",
+      "resource": "resource_00002"
+    },
+    {
+      "subject": "identity_0003",
+      "action": "action_03",
+      "resource": "resource_00003"
+    },
+    {
+      "subject": "identity_0004",
+      "action": "action_04",
+      "resource": "resource_00004"
+    },
+    {
+      "subject": "identity_0005",
+      "action": "action_05",
+      "resource": "resource_00005"
+    },
+    {
+      "subject": "identity_0006",
+      "action": "action_06",
+      "resource": "resource_00006"
+    },
+    {
+      "subject": "identity_0007",
+      "action": "action_07",
+      "resource": "resource_00007"
+    },
+    {
+      "subject": "identity_0008",
+      "action": "action_08",
+      "resource": "resource_00008"
+    },
+    {
+      "subject": "identity_0009",
+      "action": "action_09",
+      "resource": "resource_00009"
+    },
+    {
+      "subject": "identity_0010",
+      "action": "action_10",
+      "resource": "resource_00010"
+    },
+    {
+      "subject": "identity_0011",
+      "action": "action_11",
+      "resource": "resource_00011"
+    },
+    {
+      "subject": "identity_0012",
+      "action": "action_12",
+      "resource": "resource_00012"
+    },
+    {
+      "subject": "identity_0013",
+      "action": "action_13",
+      "resource": "resource_00013"
+    },
+    {
+      "subject": "identity_0014",
+      "action": "action_14",
+      "resource": "resource_00014"
+    },
+    {
+      "subject": "identity_0015",
+      "action": "action_15",
+      "resource": "resource_00015"
+    },
+    {
+      "subject": "identity_0016",
+      "action": "action_16",
+      "resource": "resource_00016"
+    },
+    {
+      "subject": "identity_0017",
+      "action": "action_17",
+      "resource": "resource_00017"
+    },
+    {
+      "subject": "identity_0018",
+      "action": "action_18",
+      "resource": "resource_00018"
+    },
+    {
+      "subject": "identity_0019",
+      "action": "action_19",
+      "resource": "resource_00019"
+    },
+    {
+      "subject": "identity_0020",
+      "action": "action_20",
+      "resource": "resource_00020"
+    },
+    {
+      "subject": "identity_0021",
+      "action": "action_21",
+      "resource": "resource_00021"
+    },
+    {
+      "subject": "identity_0022",
+      "action": "action_22",
+      "resource": "resource_00022"
+    },
+    {
+      "subject": "identity_0023",
+      "action": "action_23",
+      "resource": "resource_00023"
+    },
+    {
+      "subject": "identity_0024",
+      "action": "action_24",
+      "resource": "resource_00024"
+    },
+    {
+      "subject": "identity_0025",
+      "action": "action_25",
+      "resource": "resource_00025"
+    },
+    {
+      "subject": "identity_0026",
+      "action": "action_26",
+      "resource": "resource_00026"
+    },
+    {
+      "subject": "identity_0027",
+      "action": "action_27",
+      "resource": "resource_00027"
+    },
+    {
+      "subject": "identity_0028",
+      "action": "action_28",
+      "resource": "resource_00028"
+    },
+    {
+      "subject": "identity_0029",
+      "action": "action_29",
+      "resource": "resource_00029"
+    },
+    {
+      "subject": "identity_0030",
+      "action": "action_30",
+      "resource": "resource_00030"
+    },
+    {
+      "subject": "identity_0031",
+      "action": "action_31",
+      "resource": "resource_00031"
+    },
+    {
+      "subject": "identity_0032",
+      "action": "action_00",
+      "resource": "resource_00032"
+    },
+    {
+      "subject": "identity_0033",
+      "action": "action_01",
+      "resource": "resource_00033"
+    },
+    {
+      "subject": "identity_0034",
+      "action": "action_02",
+      "resource": "resource_00034"
+    },
+    {
+      "subject": "identity_0035",
+      "action": "action_03",
+      "resource": "resource_00035"
+    },
+    {
+      "subject": "identity_0036",
+      "action": "action_04",
+      "resource": "resource_00036"
+    },
+    {
+      "subject": "identity_0037",
+      "action": "action_05",
+      "resource": "resource_00037"
+    },
+    {
+      "subject": "identity_0038",
+      "action": "action_06",
+      "resource": "resource_00038"
+    },
+    {
+      "subject": "identity_0039",
+      "action": "action_07",
+      "resource": "resource_00039"
+    },
+    {
+      "subject": "identity_0040",
+      "action": "action_08",
+      "resource": "resource_00040"
+    },
+    {
+      "subject": "identity_0041",
+      "action": "action_09",
+      "resource": "resource_00041"
+    },
+    {
+      "subject": "identity_0042",
+      "action": "action_10",
+      "resource": "resource_00042"
+    },
+    {
+      "subject": "identity_0043",
+      "action": "action_11",
+      "resource": "resource_00043"
+    },
+    {
+      "subject": "identity_0044",
+      "action": "action_12",
+      "resource": "resource_00044"
+    },
+    {
+      "subject": "identity_0045",
+      "action": "action_13",
+      "resource": "resource_00045"
+    },
+    {
+      "subject": "identity_0046",
+      "action": "action_14",
+      "resource": "resource_00046"
+    },
+    {
+      "subject": "identity_0047",
+      "action": "action_15",
+      "resource": "resource_00047"
+    },
+    {
+      "subject": "identity_0048",
+      "action": "action_16",
+      "resource": "resource_00048"
+    },
+    {
+      "subject": "identity_0049",
+      "action": "action_17",
+      "resource": "resource_00049"
+    },
+    {
+      "subject": "identity_0050",
+      "action": "action_18",
+      "resource": "resource_00050"
+    },
+    {
+      "subject": "identity_0051",
+      "action": "action_19",
+      "resource": "resource_00051"
+    },
+    {
+      "subject": "identity_0052",
+      "action": "action_20",
+      "resource": "resource_00052"
+    },
+    {
+      "subject": "identity_0053",
+      "action": "action_21",
+      "resource": "resource_00053"
+    },
+    {
+      "subject": "identity_0054",
+      "action": "action_22",
+      "resource": "resource_00054"
+    },
+    {
+      "subject": "identity_0055",
+      "action": "action_23",
+      "resource": "resource_00055"
+    },
+    {
+      "subject": "identity_0056",
+      "action": "action_24",
+      "resource": "resource_00056"
+    },
+    {
+      "subject": "identity_0057",
+      "action": "action_25",
+      "resource": "resource_00057"
+    },
+    {
+      "subject": "identity_0058",
+      "action": "action_26",
+      "resource": "resource_00058"
+    },
+    {
+      "subject": "identity_0059",
+      "action": "action_27",
+      "resource": "resource_00059"
+    },
+    {
+      "subject": "identity_0060",
+      "action": "action_28",
+      "resource": "resource_00060"
+    },
+    {
+      "subject": "identity_0061",
+      "action": "action_29",
+      "resource": "resource_00061"
+    },
+    {
+      "subject": "identity_0062",
+      "action": "action_30",
+      "resource": "resource_00062"
+    },
+    {
+      "subject": "identity_0063",
+      "action": "action_31",
+      "resource": "resource_00063"
+    },
+    {
+      "subject": "identity_0064",
+      "action": "action_00",
+      "resource": "resource_00064"
+    },
+    {
+      "subject": "identity_0065",
+      "action": "action_01",
+      "resource": "resource_00065"
+    },
+    {
+      "subject": "identity_0066",
+      "action": "action_02",
+      "resource": "resource_00066"
+    },
+    {
+      "subject": "identity_0067",
+      "action": "action_03",
+      "resource": "resource_00067"
+    },
+    {
+      "subject": "identity_0068",
+      "action": "action_04",
+      "resource": "resource_00068"
+    },
+    {
+      "subject": "identity_0069",
+      "action": "action_05",
+      "resource": "resource_00069"
+    },
+    {
+      "subject": "identity_0070",
+      "action": "action_06",
+      "resource": "resource_00070"
+    },
+    {
+      "subject": "identity_0071",
+      "action": "action_07",
+      "resource": "resource_00071"
+    },
+    {
+      "subject": "identity_0072",
+      "action": "action_08",
+      "resource": "resource_00072"
+    },
+    {
+      "subject": "identity_0073",
+      "action": "action_09",
+      "resource": "resource_00073"
+    },
+    {
+      "subject": "identity_0074",
+      "action": "action_10",
+      "resource": "resource_00074"
+    },
+    {
+      "subject": "identity_0075",
+      "action": "action_11",
+      "resource": "resource_00075"
+    },
+    {
+      "subject": "identity_0076",
+      "action": "action_12",
+      "resource": "resource_00076"
+    },
+    {
+      "subject": "identity_0077",
+      "action": "action_13",
+      "resource": "resource_00077"
+    },
+    {
+      "subject": "identity_0078",
+      "action": "action_14",
+      "resource": "resource_00078"
+    },
+    {
+      "subject": "identity_0079",
+      "action": "action_15",
+      "resource": "resource_00079"
+    },
+    {
+      "subject": "identity_0080",
+      "action": "action_16",
+      "resource": "resource_00080"
+    },
+    {
+      "subject": "identity_0081",
+      "action": "action_17",
+      "resource": "resource_00081"
+    },
+    {
+      "subject": "identity_0082",
+      "action": "action_18",
+      "resource": "resource_00082"
+    },
+    {
+      "subject": "identity_0083",
+      "action": "action_19",
+      "resource": "resource_00083"
+    },
+    {
+      "subject": "identity_0084",
+      "action": "action_20",
+      "resource": "resource_00084"
+    },
+    {
+      "subject": "identity_0085",
+      "action": "action_21",
+      "resource": "resource_00085"
+    },
+    {
+      "subject": "identity_0086",
+      "action": "action_22",
+      "resource": "resource_00086"
+    },
+    {
+      "subject": "identity_0087",
+      "action": "action_23",
+      "resource": "resource_00087"
+    },
+    {
+      "subject": "identity_0088",
+      "action": "action_24",
+      "resource": "resource_00088"
+    },
+    {
+      "subject": "identity_0089",
+      "action": "action_25",
+      "resource": "resource_00089"
+    },
+    {
+      "subject": "identity_0090",
+      "action": "action_26",
+      "resource": "resource_00090"
+    },
+    {
+      "subject": "identity_0091",
+      "action": "action_27",
+      "resource": "resource_00091"
+    },
+    {
+      "subject": "identity_0092",
+      "action": "action_28",
+      "resource": "resource_00092"
+    },
+    {
+      "subject": "identity_0093",
+      "action": "action_29",
+      "resource": "resource_00093"
+    },
+    {
+      "subject": "identity_0094",
+      "action": "action_30",
+      "resource": "resource_00094"
+    },
+    {
+      "subject": "identity_0095",
+      "action": "action_31",
+      "resource": "resource_00095"
+    },
+    {
+      "subject": "identity_0096",
+      "action": "action_00",
+      "resource": "resource_00096"
+    },
+    {
+      "subject": "identity_0097",
+      "action": "action_01",
+      "resource": "resource_00097"
+    },
+    {
+      "subject": "identity_0098",
+      "action": "action_02",
+      "resource": "resource_00098"
+    },
+    {
+      "subject": "identity_0099",
+      "action": "action_03",
+      "resource": "resource_00099"
+    },
+    {
+      "subject": "identity_0000",
+      "action": "action_04",
+      "resource": "resource_00100"
+    },
+    {
+      "subject": "identity_0001",
+      "action": "action_05",
+      "resource": "resource_00101"
+    },
+    {
+      "subject": "identity_0002",
+      "action": "action_06",
+      "resource": "resource_00102"
+    },
+    {
+      "subject": "identity_0003",
+      "action": "action_07",
+      "resource": "resource_00103"
+    },
+    {
+      "subject": "identity_0004",
+      "action": "action_08",
+      "resource": "resource_00104"
+    },
+    {
+      "subject": "identity_0005",
+      "action": "action_09",
+      "resource": "resource_00105"
+    },
+    {
+      "subject": "identity_0006",
+      "action": "action_10",
+      "resource": "resource_00106"
+    },
+    {
+      "subject": "identity_0007",
+      "action": "action_11",
+      "resource": "resource_00107"
+    },
+    {
+      "subject": "identity_0008",
+      "action": "action_12",
+      "resource": "resource_00108"
+    },
+    {
+      "subject": "identity_0009",
+      "action": "action_13",
+      "resource": "resource_00109"
+    },
+    {
+      "subject": "identity_0010",
+      "action": "action_14",
+      "resource": "resource_00110"
+    },
+    {
+      "subject": "identity_0011",
+      "action": "action_15",
+      "resource": "resource_00111"
+    },
+    {
+      "subject": "identity_0012",
+      "action": "action_16",
+      "resource": "resource_00112"
+    },
+    {
+      "subject": "identity_0013",
+      "action": "action_17",
+      "resource": "resource_00113"
+    },
+    {
+      "subject": "identity_0014",
+      "action": "action_18",
+      "resource": "resource_00114"
+    },
+    {
+      "subject": "identity_0015",
+      "action": "action_19",
+      "resource": "resource_00115"
+    },
+    {
+      "subject": "identity_0016",
+      "action": "action_20",
+      "resource": "resource_00116"
+    },
+    {
+      "subject": "identity_0017",
+      "action": "action_21",
+      "resource": "resource_00117"
+    },
+    {
+      "subject": "identity_0018",
+      "action": "action_22",
+      "resource": "resource_00118"
+    },
+    {
+      "subject": "identity_0019",
+      "action": "action_23",
+      "resource": "resource_00119"
+    },
+    {
+      "subject": "identity_0020",
+      "action": "action_24",
+      "resource": "resource_00120"
+    },
+    {
+      "subject": "identity_0021",
+      "action": "action_25",
+      "resource": "resource_00121"
+    },
+    {
+      "subject": "identity_0022",
+      "action": "action_26",
+      "resource": "resource_00122"
+    },
+    {
+      "subject": "identity_0023",
+      "action": "action_27",
+      "resource": "resource_00123"
+    },
+    {
+      "subject": "identity_0024",
+      "action": "action_28",
+      "resource": "resource_00124"
+    },
+    {
+      "subject": "identity_0025",
+      "action": "action_29",
+      "resource": "resource_00125"
+    },
+    {
+      "subject": "identity_0026",
+      "action": "action_30",
+      "resource": "resource_00126"
+    },
+    {
+      "subject": "identity_0027",
+      "action": "action_31",
+      "resource": "resource_00127"
+    },
+    {
+      "subject": "identity_0028",
+      "action": "action_00",
+      "resource": "resource_00128"
+    },
+    {
+      "subject": "identity_0029",
+      "action": "action_01",
+      "resource": "resource_00129"
+    },
+    {
+      "subject": "identity_0030",
+      "action": "action_02",
+      "resource": "resource_00130"
+    },
+    {
+      "subject": "identity_0031",
+      "action": "action_03",
+      "resource": "resource_00131"
+    },
+    {
+      "subject": "identity_0032",
+      "action": "action_04",
+      "resource": "resource_00132"
+    },
+    {
+      "subject": "identity_0033",
+      "action": "action_05",
+      "resource": "resource_00133"
+    },
+    {
+      "subject": "identity_0034",
+      "action": "action_06",
+      "resource": "resource_00134"
+    },
+    {
+      "subject": "identity_0035",
+      "action": "action_07",
+      "resource": "resource_00135"
+    },
+    {
+      "subject": "identity_0036",
+      "action": "action_08",
+      "resource": "resource_00136"
+    },
+    {
+      "subject": "identity_0037",
+      "action": "action_09",
+      "resource": "resource_00137"
+    },
+    {
+      "subject": "identity_0038",
+      "action": "action_10",
+      "resource": "resource_00138"
+    },
+    {
+      "subject": "identity_0039",
+      "action": "action_11",
+      "resource": "resource_00139"
+    },
+    {
+      "subject": "identity_0040",
+      "action": "action_12",
+      "resource": "resource_00140"
+    },
+    {
+      "subject": "identity_0041",
+      "action": "action_13",
+      "resource": "resource_00141"
+    },
+    {
+      "subject": "identity_0042",
+      "action": "action_14",
+      "resource": "resource_00142"
+    },
+    {
+      "subject": "identity_0043",
+      "action": "action_15",
+      "resource": "resource_00143"
+    },
+    {
+      "subject": "identity_0044",
+      "action": "action_16",
+      "resource": "resource_00144"
+    },
+    {
+      "subject": "identity_0045",
+      "action": "action_17",
+      "resource": "resource_00145"
+    },
+    {
+      "subject": "identity_0046",
+      "action": "action_18",
+      "resource": "resource_00146"
+    },
+    {
+      "subject": "identity_0047",
+      "action": "action_19",
+      "resource": "resource_00147"
+    },
+    {
+      "subject": "identity_0048",
+      "action": "action_20",
+      "resource": "resource_00148"
+    },
+    {
+      "subject": "identity_0049",
+      "action": "action_21",
+      "resource": "resource_00149"
+    },
+    {
+      "subject": "identity_0050",
+      "action": "action_22",
+      "resource": "resource_00150"
+    },
+    {
+      "subject": "identity_0051",
+      "action": "action_23",
+      "resource": "resource_00151"
+    },
+    {
+      "subject": "identity_0052",
+      "action": "action_24",
+      "resource": "resource_00152"
+    },
+    {
+      "subject": "identity_0053",
+      "action": "action_25",
+      "resource": "resource_00153"
+    },
+    {
+      "subject": "identity_0054",
+      "action": "action_26",
+      "resource": "resource_00154"
+    },
+    {
+      "subject": "identity_0055",
+      "action": "action_27",
+      "resource": "resource_00155"
+    },
+    {
+      "subject": "identity_0056",
+      "action": "action_28",
+      "resource": "resource_00156"
+    },
+    {
+      "subject": "identity_0057",
+      "action": "action_29",
+      "resource": "resource_00157"
+    },
+    {
+      "subject": "identity_0058",
+      "action": "action_30",
+      "resource": "resource_00158"
+    },
+    {
+      "subject": "identity_0059",
+      "action": "action_31",
+      "resource": "resource_00159"
+    },
+    {
+      "subject": "identity_0060",
+      "action": "action_00",
+      "resource": "resource_00160"
+    },
+    {
+      "subject": "identity_0061",
+      "action": "action_01",
+      "resource": "resource_00161"
+    },
+    {
+      "subject": "identity_0062",
+      "action": "action_02",
+      "resource": "resource_00162"
+    },
+    {
+      "subject": "identity_0063",
+      "action": "action_03",
+      "resource": "resource_00163"
+    },
+    {
+      "subject": "identity_0064",
+      "action": "action_04",
+      "resource": "resource_00164"
+    },
+    {
+      "subject": "identity_0065",
+      "action": "action_05",
+      "resource": "resource_00165"
+    },
+    {
+      "subject": "identity_0066",
+      "action": "action_06",
+      "resource": "resource_00166"
+    },
+    {
+      "subject": "identity_0067",
+      "action": "action_07",
+      "resource": "resource_00167"
+    },
+    {
+      "subject": "identity_0068",
+      "action": "action_08",
+      "resource": "resource_00168"
+    },
+    {
+      "subject": "identity_0069",
+      "action": "action_09",
+      "resource": "resource_00169"
+    },
+    {
+      "subject": "identity_0070",
+      "action": "action_10",
+      "resource": "resource_00170"
+    },
+    {
+      "subject": "identity_0071",
+      "action": "action_11",
+      "resource": "resource_00171"
+    },
+    {
+      "subject": "identity_0072",
+      "action": "action_12",
+      "resource": "resource_00172"
+    },
+    {
+      "subject": "identity_0073",
+      "action": "action_13",
+      "resource": "resource_00173"
+    },
+    {
+      "subject": "identity_0074",
+      "action": "action_14",
+      "resource": "resource_00174"
+    },
+    {
+      "subject": "identity_0075",
+      "action": "action_15",
+      "resource": "resource_00175"
+    },
+    {
+      "subject": "identity_0076",
+      "action": "action_16",
+      "resource": "resource_00176"
+    },
+    {
+      "subject": "identity_0077",
+      "action": "action_17",
+      "resource": "resource_00177"
+    },
+    {
+      "subject": "identity_0078",
+      "action": "action_18",
+      "resource": "resource_00178"
+    },
+    {
+      "subject": "identity_0079",
+      "action": "action_19",
+      "resource": "resource_00179"
+    },
+    {
+      "subject": "identity_0080",
+      "action": "action_20",
+      "resource": "resource_00180"
+    },
+    {
+      "subject": "identity_0081",
+      "action": "action_21",
+      "resource": "resource_00181"
+    },
+    {
+      "subject": "identity_0082",
+      "action": "action_22",
+      "resource": "resource_00182"
+    },
+    {
+      "subject": "identity_0083",
+      "action": "action_23",
+      "resource": "resource_00183"
+    },
+    {
+      "subject": "identity_0084",
+      "action": "action_24",
+      "resource": "resource_00184"
+    },
+    {
+      "subject": "identity_0085",
+      "action": "action_25",
+      "resource": "resource_00185"
+    },
+    {
+      "subject": "identity_0086",
+      "action": "action_26",
+      "resource": "resource_00186"
+    },
+    {
+      "subject": "identity_0087",
+      "action": "action_27",
+      "resource": "resource_00187"
+    },
+    {
+      "subject": "identity_0088",
+      "action": "action_28",
+      "resource": "resource_00188"
+    },
+    {
+      "subject": "identity_0089",
+      "action": "action_29",
+      "resource": "resource_00189"
+    },
+    {
+      "subject": "identity_0090",
+      "action": "action_30",
+      "resource": "resource_00190"
+    },
+    {
+      "subject": "identity_0091",
+      "action": "action_31",
+      "resource": "resource_00191"
+    },
+    {
+      "subject": "identity_0092",
+      "action": "action_00",
+      "resource": "resource_00192"
+    },
+    {
+      "subject": "identity_0093",
+      "action": "action_01",
+      "resource": "resource_00193"
+    },
+    {
+      "subject": "identity_0094",
+      "action": "action_02",
+      "resource": "resource_00194"
+    },
+    {
+      "subject": "identity_0095",
+      "action": "action_03",
+      "resource": "resource_00195"
+    },
+    {
+      "subject": "identity_0096",
+      "action": "action_04",
+      "resource": "resource_00196"
+    },
+    {
+      "subject": "identity_0097",
+      "action": "action_05",
+      "resource": "resource_00197"
+    },
+    {
+      "subject": "identity_0098",
+      "action": "action_06",
+      "resource": "resource_00198"
+    },
+    {
+      "subject": "identity_0099",
+      "action": "action_07",
+      "resource": "resource_00199"
+    },
+    {
+      "subject": "identity_0000",
+      "action": "action_08",
+      "resource": "resource_00200"
+    },
+    {
+      "subject": "identity_0001",
+      "action": "action_09",
+      "resource": "resource_00201"
+    },
+    {
+      "subject": "identity_0002",
+      "action": "action_10",
+      "resource": "resource_00202"
+    },
+    {
+      "subject": "identity_0003",
+      "action": "action_11",
+      "resource": "resource_00203"
+    },
+    {
+      "subject": "identity_0004",
+      "action": "action_12",
+      "resource": "resource_00204"
+    },
+    {
+      "subject": "identity_0005",
+      "action": "action_13",
+      "resource": "resource_00205"
+    },
+    {
+      "subject": "identity_0006",
+      "action": "action_14",
+      "resource": "resource_00206"
+    },
+    {
+      "subject": "identity_0007",
+      "action": "action_15",
+      "resource": "resource_00207"
+    },
+    {
+      "subject": "identity_0008",
+      "action": "action_16",
+      "resource": "resource_00208"
+    },
+    {
+      "subject": "identity_0009",
+      "action": "action_17",
+      "resource": "resource_00209"
+    },
+    {
+      "subject": "identity_0010",
+      "action": "action_18",
+      "resource": "resource_00210"
+    },
+    {
+      "subject": "identity_0011",
+      "action": "action_19",
+      "resource": "resource_00211"
+    },
+    {
+      "subject": "identity_0012",
+      "action": "action_20",
+      "resource": "resource_00212"
+    },
+    {
+      "subject": "identity_0013",
+      "action": "action_21",
+      "resource": "resource_00213"
+    },
+    {
+      "subject": "identity_0014",
+      "action": "action_22",
+      "resource": "resource_00214"
+    },
+    {
+      "subject": "identity_0015",
+      "action": "action_23",
+      "resource": "resource_00215"
+    },
+    {
+      "subject": "identity_0016",
+      "action": "action_24",
+      "resource": "resource_00216"
+    },
+    {
+      "subject": "identity_0017",
+      "action": "action_25",
+      "resource": "resource_00217"
+    },
+    {
+      "subject": "identity_0018",
+      "action": "action_26",
+      "resource": "resource_00218"
+    },
+    {
+      "subject": "identity_0019",
+      "action": "action_27",
+      "resource": "resource_00219"
+    },
+    {
+      "subject": "identity_0020",
+      "action": "action_28",
+      "resource": "resource_00220"
+    },
+    {
+      "subject": "identity_0021",
+      "action": "action_29",
+      "resource": "resource_00221"
+    },
+    {
+      "subject": "identity_0022",
+      "action": "action_30",
+      "resource": "resource_00222"
+    },
+    {
+      "subject": "identity_0023",
+      "action": "action_31",
+      "resource": "resource_00223"
+    },
+    {
+      "subject": "identity_0024",
+      "action": "action_00",
+      "resource": "resource_00224"
+    },
+    {
+      "subject": "identity_0025",
+      "action": "action_01",
+      "resource": "resource_00225"
+    },
+    {
+      "subject": "identity_0026",
+      "action": "action_02",
+      "resource": "resource_00226"
+    },
+    {
+      "subject": "identity_0027",
+      "action": "action_03",
+      "resource": "resource_00227"
+    },
+    {
+      "subject": "identity_0028",
+      "action": "action_04",
+      "resource": "resource_00228"
+    },
+    {
+      "subject": "identity_0029",
+      "action": "action_05",
+      "resource": "resource_00229"
+    },
+    {
+      "subject": "identity_0030",
+      "action": "action_06",
+      "resource": "resource_00230"
+    },
+    {
+      "subject": "identity_0031",
+      "action": "action_07",
+      "resource": "resource_00231"
+    },
+    {
+      "subject": "identity_0032",
+      "action": "action_08",
+      "resource": "resource_00232"
+    },
+    {
+      "subject": "identity_0033",
+      "action": "action_09",
+      "resource": "resource_00233"
+    },
+    {
+      "subject": "identity_0034",
+      "action": "action_10",
+      "resource": "resource_00234"
+    },
+    {
+      "subject": "identity_0035",
+      "action": "action_11",
+      "resource": "resource_00235"
+    },
+    {
+      "subject": "identity_0036",
+      "action": "action_12",
+      "resource": "resource_00236"
+    },
+    {
+      "subject": "identity_0037",
+      "action": "action_13",
+      "resource": "resource_00237"
+    },
+    {
+      "subject": "identity_0038",
+      "action": "action_14",
+      "resource": "resource_00238"
+    },
+    {
+      "subject": "identity_0039",
+      "action": "action_15",
+      "resource": "resource_00239"
+    },
+    {
+      "subject": "identity_0040",
+      "action": "action_16",
+      "resource": "resource_00240"
+    },
+    {
+      "subject": "identity_0041",
+      "action": "action_17",
+      "resource": "resource_00241"
+    },
+    {
+      "subject": "identity_0042",
+      "action": "action_18",
+      "resource": "resource_00242"
+    },
+    {
+      "subject": "identity_0043",
+      "action": "action_19",
+      "resource": "resource_00243"
+    },
+    {
+      "subject": "identity_0044",
+      "action": "action_20",
+      "resource": "resource_00244"
+    },
+    {
+      "subject": "identity_0045",
+      "action": "action_21",
+      "resource": "resource_00245"
+    },
+    {
+      "subject": "identity_0046",
+      "action": "action_22",
+      "resource": "resource_00246"
+    },
+    {
+      "subject": "identity_0047",
+      "action": "action_23",
+      "resource": "resource_00247"
+    },
+    {
+      "subject": "identity_0048",
+      "action": "action_24",
+      "resource": "resource_00248"
+    },
+    {
+      "subject": "identity_0049",
+      "action": "action_25",
+      "resource": "resource_00249"
+    },
+    {
+      "subject": "identity_0050",
+      "action": "action_26",
+      "resource": "resource_00250"
+    },
+    {
+      "subject": "identity_0051",
+      "action": "action_27",
+      "resource": "resource_00251"
+    },
+    {
+      "subject": "identity_0052",
+      "action": "action_28",
+      "resource": "resource_00252"
+    },
+    {
+      "subject": "identity_0053",
+      "action": "action_29",
+      "resource": "resource_00253"
+    },
+    {
+      "subject": "identity_0054",
+      "action": "action_30",
+      "resource": "resource_00254"
+    },
+    {
+      "subject": "identity_0055",
+      "action": "action_31",
+      "resource": "resource_00255"
+    },
+    {
+      "subject": "identity_0056",
+      "action": "action_00",
+      "resource": "resource_00256"
+    },
+    {
+      "subject": "identity_0057",
+      "action": "action_01",
+      "resource": "resource_00257"
+    },
+    {
+      "subject": "identity_0058",
+      "action": "action_02",
+      "resource": "resource_00258"
+    },
+    {
+      "subject": "identity_0059",
+      "action": "action_03",
+      "resource": "resource_00259"
+    },
+    {
+      "subject": "identity_0060",
+      "action": "action_04",
+      "resource": "resource_00260"
+    },
+    {
+      "subject": "identity_0061",
+      "action": "action_05",
+      "resource": "resource_00261"
+    },
+    {
+      "subject": "identity_0062",
+      "action": "action_06",
+      "resource": "resource_00262"
+    },
+    {
+      "subject": "identity_0063",
+      "action": "action_07",
+      "resource": "resource_00263"
+    },
+    {
+      "subject": "identity_0064",
+      "action": "action_08",
+      "resource": "resource_00264"
+    },
+    {
+      "subject": "identity_0065",
+      "action": "action_09",
+      "resource": "resource_00265"
+    },
+    {
+      "subject": "identity_0066",
+      "action": "action_10",
+      "resource": "resource_00266"
+    },
+    {
+      "subject": "identity_0067",
+      "action": "action_11",
+      "resource": "resource_00267"
+    },
+    {
+      "subject": "identity_0068",
+      "action": "action_12",
+      "resource": "resource_00268"
+    },
+    {
+      "subject": "identity_0069",
+      "action": "action_13",
+      "resource": "resource_00269"
+    },
+    {
+      "subject": "identity_0070",
+      "action": "action_14",
+      "resource": "resource_00270"
+    },
+    {
+      "subject": "identity_0071",
+      "action": "action_15",
+      "resource": "resource_00271"
+    },
+    {
+      "subject": "identity_0072",
+      "action": "action_16",
+      "resource": "resource_00272"
+    },
+    {
+      "subject": "identity_0073",
+      "action": "action_17",
+      "resource": "resource_00273"
+    },
+    {
+      "subject": "identity_0074",
+      "action": "action_18",
+      "resource": "resource_00274"
+    },
+    {
+      "subject": "identity_0075",
+      "action": "action_19",
+      "resource": "resource_00275"
+    },
+    {
+      "subject": "identity_0076",
+      "action": "action_20",
+      "resource": "resource_00276"
+    },
+    {
+      "subject": "identity_0077",
+      "action": "action_21",
+      "resource": "resource_00277"
+    },
+    {
+      "subject": "identity_0078",
+      "action": "action_22",
+      "resource": "resource_00278"
+    },
+    {
+      "subject": "identity_0079",
+      "action": "action_23",
+      "resource": "resource_00279"
+    },
+    {
+      "subject": "identity_0080",
+      "action": "action_24",
+      "resource": "resource_00280"
+    },
+    {
+      "subject": "identity_0081",
+      "action": "action_25",
+      "resource": "resource_00281"
+    },
+    {
+      "subject": "identity_0082",
+      "action": "action_26",
+      "resource": "resource_00282"
+    },
+    {
+      "subject": "identity_0083",
+      "action": "action_27",
+      "resource": "resource_00283"
+    },
+    {
+      "subject": "identity_0084",
+      "action": "action_28",
+      "resource": "resource_00284"
+    },
+    {
+      "subject": "identity_0085",
+      "action": "action_29",
+      "resource": "resource_00285"
+    },
+    {
+      "subject": "identity_0086",
+      "action": "action_30",
+      "resource": "resource_00286"
+    },
+    {
+      "subject": "identity_0087",
+      "action": "action_31",
+      "resource": "resource_00287"
+    },
+    {
+      "subject": "identity_0088",
+      "action": "action_00",
+      "resource": "resource_00288"
+    },
+    {
+      "subject": "identity_0089",
+      "action": "action_01",
+      "resource": "resource_00289"
+    },
+    {
+      "subject": "identity_0090",
+      "action": "action_02",
+      "resource": "resource_00290"
+    },
+    {
+      "subject": "identity_0091",
+      "action": "action_03",
+      "resource": "resource_00291"
+    },
+    {
+      "subject": "identity_0092",
+      "action": "action_04",
+      "resource": "resource_00292"
+    },
+    {
+      "subject": "identity_0093",
+      "action": "action_05",
+      "resource": "resource_00293"
+    },
+    {
+      "subject": "identity_0094",
+      "action": "action_06",
+      "resource": "resource_00294"
+    },
+    {
+      "subject": "identity_0095",
+      "action": "action_07",
+      "resource": "resource_00295"
+    },
+    {
+      "subject": "identity_0096",
+      "action": "action_08",
+      "resource": "resource_00296"
+    },
+    {
+      "subject": "identity_0097",
+      "action": "action_09",
+      "resource": "resource_00297"
+    },
+    {
+      "subject": "identity_0098",
+      "action": "action_10",
+      "resource": "resource_00298"
+    },
+    {
+      "subject": "identity_0099",
+      "action": "action_11",
+      "resource": "resource_00299"
+    },
+    {
+      "subject": "identity_0000",
+      "action": "action_12",
+      "resource": "resource_00300"
+    },
+    {
+      "subject": "identity_0001",
+      "action": "action_13",
+      "resource": "resource_00301"
+    },
+    {
+      "subject": "identity_0002",
+      "action": "action_14",
+      "resource": "resource_00302"
+    },
+    {
+      "subject": "identity_0003",
+      "action": "action_15",
+      "resource": "resource_00303"
+    },
+    {
+      "subject": "identity_0004",
+      "action": "action_16",
+      "resource": "resource_00304"
+    },
+    {
+      "subject": "identity_0005",
+      "action": "action_17",
+      "resource": "resource_00305"
+    },
+    {
+      "subject": "identity_0006",
+      "action": "action_18",
+      "resource": "resource_00306"
+    },
+    {
+      "subject": "identity_0007",
+      "action": "action_19",
+      "resource": "resource_00307"
+    },
+    {
+      "subject": "identity_0008",
+      "action": "action_20",
+      "resource": "resource_00308"
+    },
+    {
+      "subject": "identity_0009",
+      "action": "action_21",
+      "resource": "resource_00309"
+    },
+    {
+      "subject": "identity_0010",
+      "action": "action_22",
+      "resource": "resource_00310"
+    },
+    {
+      "subject": "identity_0011",
+      "action": "action_23",
+      "resource": "resource_00311"
+    },
+    {
+      "subject": "identity_0012",
+      "action": "action_24",
+      "resource": "resource_00312"
+    },
+    {
+      "subject": "identity_0013",
+      "action": "action_25",
+      "resource": "resource_00313"
+    },
+    {
+      "subject": "identity_0014",
+      "action": "action_26",
+      "resource": "resource_00314"
+    },
+    {
+      "subject": "identity_0015",
+      "action": "action_27",
+      "resource": "resource_00315"
+    },
+    {
+      "subject": "identity_0016",
+      "action": "action_28",
+      "resource": "resource_00316"
+    },
+    {
+      "subject": "identity_0017",
+      "action": "action_29",
+      "resource": "resource_00317"
+    },
+    {
+      "subject": "identity_0018",
+      "action": "action_30",
+      "resource": "resource_00318"
+    },
+    {
+      "subject": "identity_0019",
+      "action": "action_31",
+      "resource": "resource_00319"
+    },
+    {
+      "subject": "identity_0020",
+      "action": "action_00",
+      "resource": "resource_00320"
+    },
+    {
+      "subject": "identity_0021",
+      "action": "action_01",
+      "resource": "resource_00321"
+    },
+    {
+      "subject": "identity_0022",
+      "action": "action_02",
+      "resource": "resource_00322"
+    },
+    {
+      "subject": "identity_0023",
+      "action": "action_03",
+      "resource": "resource_00323"
+    },
+    {
+      "subject": "identity_0024",
+      "action": "action_04",
+      "resource": "resource_00324"
+    },
+    {
+      "subject": "identity_0025",
+      "action": "action_05",
+      "resource": "resource_00325"
+    },
+    {
+      "subject": "identity_0026",
+      "action": "action_06",
+      "resource": "resource_00326"
+    },
+    {
+      "subject": "identity_0027",
+      "action": "action_07",
+      "resource": "resource_00327"
+    },
+    {
+      "subject": "identity_0028",
+      "action": "action_08",
+      "resource": "resource_00328"
+    },
+    {
+      "subject": "identity_0029",
+      "action": "action_09",
+      "resource": "resource_00329"
+    },
+    {
+      "subject": "identity_0030",
+      "action": "action_10",
+      "resource": "resource_00330"
+    },
+    {
+      "subject": "identity_0031",
+      "action": "action_11",
+      "resource": "resource_00331"
+    },
+    {
+      "subject": "identity_0032",
+      "action": "action_12",
+      "resource": "resource_00332"
+    },
+    {
+      "subject": "identity_0033",
+      "action": "action_13",
+      "resource": "resource_00333"
+    },
+    {
+      "subject": "identity_0034",
+      "action": "action_14",
+      "resource": "resource_00334"
+    },
+    {
+      "subject": "identity_0035",
+      "action": "action_15",
+      "resource": "resource_00335"
+    },
+    {
+      "subject": "identity_0036",
+      "action": "action_16",
+      "resource": "resource_00336"
+    },
+    {
+      "subject": "identity_0037",
+      "action": "action_17",
+      "resource": "resource_00337"
+    },
+    {
+      "subject": "identity_0038",
+      "action": "action_18",
+      "resource": "resource_00338"
+    },
+    {
+      "subject": "identity_0039",
+      "action": "action_19",
+      "resource": "resource_00339"
+    },
+    {
+      "subject": "identity_0040",
+      "action": "action_20",
+      "resource": "resource_00340"
+    },
+    {
+      "subject": "identity_0041",
+      "action": "action_21",
+      "resource": "resource_00341"
+    },
+    {
+      "subject": "identity_0042",
+      "action": "action_22",
+      "resource": "resource_00342"
+    },
+    {
+      "subject": "identity_0043",
+      "action": "action_23",
+      "resource": "resource_00343"
+    },
+    {
+      "subject": "identity_0044",
+      "action": "action_24",
+      "resource": "resource_00344"
+    },
+    {
+      "subject": "identity_0045",
+      "action": "action_25",
+      "resource": "resource_00345"
+    },
+    {
+      "subject": "identity_0046",
+      "action": "action_26",
+      "resource": "resource_00346"
+    },
+    {
+      "subject": "identity_0047",
+      "action": "action_27",
+      "resource": "resource_00347"
+    },
+    {
+      "subject": "identity_0048",
+      "action": "action_28",
+      "resource": "resource_00348"
+    },
+    {
+      "subject": "identity_0049",
+      "action": "action_29",
+      "resource": "resource_00349"
+    },
+    {
+      "subject": "identity_0050",
+      "action": "action_30",
+      "resource": "resource_00350"
+    },
+    {
+      "subject": "identity_0051",
+      "action": "action_31",
+      "resource": "resource_00351"
+    },
+    {
+      "subject": "identity_0052",
+      "action": "action_00",
+      "resource": "resource_00352"
+    },
+    {
+      "subject": "identity_0053",
+      "action": "action_01",
+      "resource": "resource_00353"
+    },
+    {
+      "subject": "identity_0054",
+      "action": "action_02",
+      "resource": "resource_00354"
+    },
+    {
+      "subject": "identity_0055",
+      "action": "action_03",
+      "resource": "resource_00355"
+    },
+    {
+      "subject": "identity_0056",
+      "action": "action_04",
+      "resource": "resource_00356"
+    },
+    {
+      "subject": "identity_0057",
+      "action": "action_05",
+      "resource": "resource_00357"
+    },
+    {
+      "subject": "identity_0058",
+      "action": "action_06",
+      "resource": "resource_00358"
+    },
+    {
+      "subject": "identity_0059",
+      "action": "action_07",
+      "resource": "resource_00359"
+    },
+    {
+      "subject": "identity_0060",
+      "action": "action_08",
+      "resource": "resource_00360"
+    },
+    {
+      "subject": "identity_0061",
+      "action": "action_09",
+      "resource": "resource_00361"
+    },
+    {
+      "subject": "identity_0062",
+      "action": "action_10",
+      "resource": "resource_00362"
+    },
+    {
+      "subject": "identity_0063",
+      "action": "action_11",
+      "resource": "resource_00363"
+    },
+    {
+      "subject": "identity_0064",
+      "action": "action_12",
+      "resource": "resource_00364"
+    },
+    {
+      "subject": "identity_0065",
+      "action": "action_13",
+      "resource": "resource_00365"
+    },
+    {
+      "subject": "identity_0066",
+      "action": "action_14",
+      "resource": "resource_00366"
+    },
+    {
+      "subject": "identity_0067",
+      "action": "action_15",
+      "resource": "resource_00367"
+    },
+    {
+      "subject": "identity_0068",
+      "action": "action_16",
+      "resource": "resource_00368"
+    },
+    {
+      "subject": "identity_0069",
+      "action": "action_17",
+      "resource": "resource_00369"
+    },
+    {
+      "subject": "identity_0070",
+      "action": "action_18",
+      "resource": "resource_00370"
+    },
+    {
+      "subject": "identity_0071",
+      "action": "action_19",
+      "resource": "resource_00371"
+    },
+    {
+      "subject": "identity_0072",
+      "action": "action_20",
+      "resource": "resource_00372"
+    },
+    {
+      "subject": "identity_0073",
+      "action": "action_21",
+      "resource": "resource_00373"
+    },
+    {
+      "subject": "identity_0074",
+      "action": "action_22",
+      "resource": "resource_00374"
+    },
+    {
+      "subject": "identity_0075",
+      "action": "action_23",
+      "resource": "resource_00375"
+    },
+    {
+      "subject": "identity_0076",
+      "action": "action_24",
+      "resource": "resource_00376"
+    },
+    {
+      "subject": "identity_0077",
+      "action": "action_25",
+      "resource": "resource_00377"
+    },
+    {
+      "subject": "identity_0078",
+      "action": "action_26",
+      "resource": "resource_00378"
+    },
+    {
+      "subject": "identity_0079",
+      "action": "action_27",
+      "resource": "resource_00379"
+    },
+    {
+      "subject": "identity_0080",
+      "action": "action_28",
+      "resource": "resource_00380"
+    },
+    {
+      "subject": "identity_0081",
+      "action": "action_29",
+      "resource": "resource_00381"
+    },
+    {
+      "subject": "identity_0082",
+      "action": "action_30",
+      "resource": "resource_00382"
+    },
+    {
+      "subject": "identity_0083",
+      "action": "action_31",
+      "resource": "resource_00383"
+    },
+    {
+      "subject": "identity_0084",
+      "action": "action_00",
+      "resource": "resource_00384"
+    },
+    {
+      "subject": "identity_0085",
+      "action": "action_01",
+      "resource": "resource_00385"
+    },
+    {
+      "subject": "identity_0086",
+      "action": "action_02",
+      "resource": "resource_00386"
+    },
+    {
+      "subject": "identity_0087",
+      "action": "action_03",
+      "resource": "resource_00387"
+    },
+    {
+      "subject": "identity_0088",
+      "action": "action_04",
+      "resource": "resource_00388"
+    },
+    {
+      "subject": "identity_0089",
+      "action": "action_05",
+      "resource": "resource_00389"
+    },
+    {
+      "subject": "identity_0090",
+      "action": "action_06",
+      "resource": "resource_00390"
+    },
+    {
+      "subject": "identity_0091",
+      "action": "action_07",
+      "resource": "resource_00391"
+    },
+    {
+      "subject": "identity_0092",
+      "action": "action_08",
+      "resource": "resource_00392"
+    },
+    {
+      "subject": "identity_0093",
+      "action": "action_09",
+      "resource": "resource_00393"
+    },
+    {
+      "subject": "identity_0094",
+      "action": "action_10",
+      "resource": "resource_00394"
+    },
+    {
+      "subject": "identity_0095",
+      "action": "action_11",
+      "resource": "resource_00395"
+    },
+    {
+      "subject": "identity_0096",
+      "action": "action_12",
+      "resource": "resource_00396"
+    },
+    {
+      "subject": "identity_0097",
+      "action": "action_13",
+      "resource": "resource_00397"
+    },
+    {
+      "subject": "identity_0098",
+      "action": "action_14",
+      "resource": "resource_00398"
+    },
+    {
+      "subject": "identity_0099",
+      "action": "action_15",
+      "resource": "resource_00399"
+    },
+    {
+      "subject": "identity_0000",
+      "action": "action_16",
+      "resource": "resource_00400"
+    },
+    {
+      "subject": "identity_0001",
+      "action": "action_17",
+      "resource": "resource_00401"
+    },
+    {
+      "subject": "identity_0002",
+      "action": "action_18",
+      "resource": "resource_00402"
+    },
+    {
+      "subject": "identity_0003",
+      "action": "action_19",
+      "resource": "resource_00403"
+    },
+    {
+      "subject": "identity_0004",
+      "action": "action_20",
+      "resource": "resource_00404"
+    },
+    {
+      "subject": "identity_0005",
+      "action": "action_21",
+      "resource": "resource_00405"
+    },
+    {
+      "subject": "identity_0006",
+      "action": "action_22",
+      "resource": "resource_00406"
+    },
+    {
+      "subject": "identity_0007",
+      "action": "action_23",
+      "resource": "resource_00407"
+    },
+    {
+      "subject": "identity_0008",
+      "action": "action_24",
+      "resource": "resource_00408"
+    },
+    {
+      "subject": "identity_0009",
+      "action": "action_25",
+      "resource": "resource_00409"
+    },
+    {
+      "subject": "identity_0010",
+      "action": "action_26",
+      "resource": "resource_00410"
+    },
+    {
+      "subject": "identity_0011",
+      "action": "action_27",
+      "resource": "resource_00411"
+    },
+    {
+      "subject": "identity_0012",
+      "action": "action_28",
+      "resource": "resource_00412"
+    },
+    {
+      "subject": "identity_0013",
+      "action": "action_29",
+      "resource": "resource_00413"
+    },
+    {
+      "subject": "identity_0014",
+      "action": "action_30",
+      "resource": "resource_00414"
+    },
+    {
+      "subject": "identity_0015",
+      "action": "action_31",
+      "resource": "resource_00415"
+    },
+    {
+      "subject": "identity_0016",
+      "action": "action_00",
+      "resource": "resource_00416"
+    },
+    {
+      "subject": "identity_0017",
+      "action": "action_01",
+      "resource": "resource_00417"
+    },
+    {
+      "subject": "identity_0018",
+      "action": "action_02",
+      "resource": "resource_00418"
+    },
+    {
+      "subject": "identity_0019",
+      "action": "action_03",
+      "resource": "resource_00419"
+    },
+    {
+      "subject": "identity_0020",
+      "action": "action_04",
+      "resource": "resource_00420"
+    },
+    {
+      "subject": "identity_0021",
+      "action": "action_05",
+      "resource": "resource_00421"
+    },
+    {
+      "subject": "identity_0022",
+      "action": "action_06",
+      "resource": "resource_00422"
+    },
+    {
+      "subject": "identity_0023",
+      "action": "action_07",
+      "resource": "resource_00423"
+    },
+    {
+      "subject": "identity_0024",
+      "action": "action_08",
+      "resource": "resource_00424"
+    },
+    {
+      "subject": "identity_0025",
+      "action": "action_09",
+      "resource": "resource_00425"
+    },
+    {
+      "subject": "identity_0026",
+      "action": "action_10",
+      "resource": "resource_00426"
+    },
+    {
+      "subject": "identity_0027",
+      "action": "action_11",
+      "resource": "resource_00427"
+    },
+    {
+      "subject": "identity_0028",
+      "action": "action_12",
+      "resource": "resource_00428"
+    },
+    {
+      "subject": "identity_0029",
+      "action": "action_13",
+      "resource": "resource_00429"
+    },
+    {
+      "subject": "identity_0030",
+      "action": "action_14",
+      "resource": "resource_00430"
+    },
+    {
+      "subject": "identity_0031",
+      "action": "action_15",
+      "resource": "resource_00431"
+    },
+    {
+      "subject": "identity_0032",
+      "action": "action_16",
+      "resource": "resource_00432"
+    },
+    {
+      "subject": "identity_0033",
+      "action": "action_17",
+      "resource": "resource_00433"
+    },
+    {
+      "subject": "identity_0034",
+      "action": "action_18",
+      "resource": "resource_00434"
+    },
+    {
+      "subject": "identity_0035",
+      "action": "action_19",
+      "resource": "resource_00435"
+    },
+    {
+      "subject": "identity_0036",
+      "action": "action_20",
+      "resource": "resource_00436"
+    },
+    {
+      "subject": "identity_0037",
+      "action": "action_21",
+      "resource": "resource_00437"
+    },
+    {
+      "subject": "identity_0038",
+      "action": "action_22",
+      "resource": "resource_00438"
+    },
+    {
+      "subject": "identity_0039",
+      "action": "action_23",
+      "resource": "resource_00439"
+    },
+    {
+      "subject": "identity_0040",
+      "action": "action_24",
+      "resource": "resource_00440"
+    },
+    {
+      "subject": "identity_0041",
+      "action": "action_25",
+      "resource": "resource_00441"
+    },
+    {
+      "subject": "identity_0042",
+      "action": "action_26",
+      "resource": "resource_00442"
+    },
+    {
+      "subject": "identity_0043",
+      "action": "action_27",
+      "resource": "resource_00443"
+    },
+    {
+      "subject": "identity_0044",
+      "action": "action_28",
+      "resource": "resource_00444"
+    },
+    {
+      "subject": "identity_0045",
+      "action": "action_29",
+      "resource": "resource_00445"
+    },
+    {
+      "subject": "identity_0046",
+      "action": "action_30",
+      "resource": "resource_00446"
+    },
+    {
+      "subject": "identity_0047",
+      "action": "action_31",
+      "resource": "resource_00447"
+    },
+    {
+      "subject": "identity_0048",
+      "action": "action_00",
+      "resource": "resource_00448"
+    },
+    {
+      "subject": "identity_0049",
+      "action": "action_01",
+      "resource": "resource_00449"
+    }
+  ]
+}

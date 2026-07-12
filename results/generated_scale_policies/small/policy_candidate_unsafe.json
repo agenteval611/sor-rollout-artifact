@@ -1,0 +1,31 @@
+{
+  "policy_id": "small-unsafe",
+  "description": "Generated unsafe candidate",
+  "allow": [
+    {
+      "subject": "svc-build",
+      "action": "read",
+      "resource": "repo"
+    },
+    {
+      "subject": "svc-build",
+      "action": "write",
+      "resource": "artifact"
+    },
+    {
+      "subject": "svc-deploy",
+      "action": "read",
+      "resource": "artifact"
+    },
+    {
+      "subject": "svc-deploy",
+      "action": "write",
+      "resource": "deployment"
+    },
+    {
+      "subject": "svc-backup",
+      "action": "read",
+      "resource": "database"
+    }
+  ]
+}

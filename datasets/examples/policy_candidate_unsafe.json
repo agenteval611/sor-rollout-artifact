@@ -1,0 +1,11 @@
+{
+  "version": "candidate-unsafe-v1",
+  "description": "Intentionally unsafe candidate that removes three permissions exercised by the deterministic replay.",
+  "allow": [
+    {"subject":"svc-build","action":"read","resource":"repo"},
+    {"subject":"svc-build","action":"write","resource":"artifact"},
+    {"subject":"svc-deploy","action":"read","resource":"artifact"},
+    {"subject":"svc-deploy","action":"write","resource":"deployment"},
+    {"subject":"svc-backup","action":"read","resource":"database"}
+  ]
+}

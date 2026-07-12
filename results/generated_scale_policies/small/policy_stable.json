@@ -1,0 +1,46 @@
+{
+  "policy_id": "small-stable",
+  "description": "Generated effective stable policy",
+  "allow": [
+    {
+      "subject": "svc-build",
+      "action": "read",
+      "resource": "repo"
+    },
+    {
+      "subject": "svc-build",
+      "action": "write",
+      "resource": "artifact"
+    },
+    {
+      "subject": "svc-deploy",
+      "action": "read",
+      "resource": "artifact"
+    },
+    {
+      "subject": "svc-deploy",
+      "action": "write",
+      "resource": "deployment"
+    },
+    {
+      "subject": "svc-backup",
+      "action": "read",
+      "resource": "database"
+    },
+    {
+      "subject": "svc-backup",
+      "action": "write",
+      "resource": "backup-store"
+    },
+    {
+      "subject": "svc-incident",
+      "action": "read",
+      "resource": "audit-log"
+    },
+    {
+      "subject": "svc-incident",
+      "action": "write",
+      "resource": "ticket"
+    }
+  ]
+}
